@@ -1,3 +1,4 @@
+## below code is for courseera course getting started with python 
 ## belwo code was from the video
 hrs = input('Enter hours: ')
 rate = input('Enter rate:')
